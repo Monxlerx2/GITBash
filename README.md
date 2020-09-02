@@ -11,7 +11,7 @@ Linus Torvals
 `System.out.println("Es una prueba markdown"`
 
 
-```[Java]
+```[Php]
 for (int i=0; i<10; i++) {
   System.out.println(i);
 }
