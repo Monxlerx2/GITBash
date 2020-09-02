@@ -10,7 +10,7 @@ Simplemente, accediendo al directorio e introducciendo en la terminal lo siguien
 `npm start`
 
 Link:
-(www.stackoverflow.com)
+[StackOverFlow](www.stackoverflow.com)
 
 Imagen:
 ![Un gato](https://reviblog.net/wp-content/uploads/2018/06/IMG_20180608_104752.jpg)
