@@ -2,7 +2,7 @@
 
 
 ## Instalación 
-Para poder instalar la aplicación es necesario introducir el siguiente comando:
+Para poder instalar la aplicación es necesario introducir el siguiente comando:  
 `npx create-react-app [nombre_aplicacion]`
 
 ## Despliegue de la aplicación
