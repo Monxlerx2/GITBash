@@ -1,0 +1,5 @@
+## Añadimos un listado de productos:  
+* Fresa
+* Platano 
+* Kiwi
+* Sandía
