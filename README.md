@@ -1,30 +1,10 @@
 # GITBash
-## Estos en una muestra de lo que markdown puede hace.
-
-> "If it compiles. it is goodm it it boots up it is perfect" - Linus 
-Linus Torvals
-
-*Hola*
-
-**Negrita**
-
-`System.out.println("Es una prueba markdown"`
 
 
-```
-for (int i=0; i<10; i++) {
-  System.out.println(i);
-}
+## Instalación 
+Para poder instalar la aplicación es necesario introducir el siguiente comando:
+`npx create-react-app [nombre_aplicacion]`
 
-```
-
-**Lista de Lenguajes de Programación**
-* Java
-* Javascript
-* C#
-
-
-**Lista de Lenguajes de Programación con lista ordenada**
-1. Java
-2. Javascript
-3. C#
+## Despliegue de la aplicación
+Simplemente, accediendo al directorio e introducciendo en la terminal lo siguiente:
+`npm start`
