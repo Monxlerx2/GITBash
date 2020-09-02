@@ -6,6 +6,6 @@ Linus Torvals
 
 *Hola*
 
-*Negrita*
+**Negrita**
 
 `System.out.println("Es una prueba markdown"`
